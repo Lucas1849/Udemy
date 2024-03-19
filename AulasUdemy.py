@@ -573,10 +573,6 @@ print(Funcionario.nome_compelto(usuario1))
 
 #Módulos
 from funções import find_index
-from Items.cadastro import registro
-
-registro()
-
 list1('a', 'b', 'c', 'd', 'e')
 
 var1 = find_index(list1, 'b')
